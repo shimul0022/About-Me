@@ -1,14 +1,14 @@
 # About Me
 
 - Hi, I’m Shimul and I'm 17.
-- I’m interested in Frontend Development
+- Interested in Frontend Development
 - I’m currently learning and Revising Html, CSS, Javascript
 - Reach me at [Facebook](https://web.facebook.com/shimulmendes8008/)
 - Greetings from **Bangladesh** 👋🏼
 
 <hr>
 
-### My Skills (Still Learning) :
+### My Skills (Still Learning)
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50 height="50>&nbsp;
