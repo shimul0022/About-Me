@@ -1,8 +1,8 @@
 # About Me
 
-- Hi, I’m Shimul and I'm 17.
-- Interested in Frontend Development
-- I’m currently learning and Revising Html, CSS, Javascript
+- Hi, I’m Shimul and I'm 18.
+- Interested in Frontend Development.
+- I’m currently learning and Revising Html, CSS, Javascript.
 - Reach me at [Facebook](https://web.facebook.com/shimulmendes8008/)
 - Greetings from **Bangladesh** 👋🏼
 
@@ -16,4 +16,3 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42"> &nbsp;
 <img src="https://github.com/nonso01/nonso01/blob/main/images/sass.png" width="40" height="40">&nbsp;
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="40" height="40">&nbsp;
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"width="40" height="40">&nbsp;
