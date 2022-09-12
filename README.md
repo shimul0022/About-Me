@@ -15,3 +15,4 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" height="42"> &nbsp;
 <img src="https://github.com/nonso01/nonso01/blob/main/images/sass.png" width="40" height="40">&nbsp;
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="40" height="40">&nbsp;
+<img src="Svelte_Logo.svg" width="45" height="45">
