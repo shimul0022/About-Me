@@ -1,8 +1,7 @@
 # About Me
 
 - Hi, I’m Shimul and I'm 18.
-- Interested in Frontend Development.
-- I’m currently learning and Revising Html, CSS, Javascript, Tailwindcss.
+- I’m currently learning and Revising Html, CSS, Javascript and Tailwindcss.
 - Reach me at [Facebook](https://web.facebook.com/shimulmendes8008/)
 - Greetings from **Bangladesh** 👋🏼
 
@@ -23,5 +22,5 @@
 Nonso Martin. Someone I met online that have become my friend. The guy is very cool and laughs a lot. What's special about him and separate him from the rest is that he codes in a phone. But even with a phone Martin has learned more than anyone would guess.
 
 He has done so much that every time I have self-doubt I think of him and remind myself that hard work and dedication can bring success.
-His [GitHub](https://github.com/nonso01).
+His [**GitHub**](https://github.com/nonso01).
 
