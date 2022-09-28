@@ -2,7 +2,7 @@
 
 - Hi, I’m Shimul and I'm 18.
 - Interested in Frontend Development.
-- I’m currently learning and Revising Html, CSS, Javascript.
+- I’m currently learning and Revising Html, CSS, Javascript, Tailwindcss.
 - Reach me at [Facebook](https://web.facebook.com/shimulmendes8008/)
 - Greetings from **Bangladesh** 👋🏼
 
