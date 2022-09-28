@@ -19,5 +19,9 @@
 
 <hr>
 
-## Someone who inspire me
-[Martin
+### Someone who inspire me
+Nonso Martin. Someone I met online that have become my friend. The guy is very cool and laughs a lot. What's special about him and separate him from the rest is that he codes in a phone. But even with a phone Martin has learned more than anyone would guess.
+
+He has done so much that every time I have self-doubt I think of him and remind myself that hard work and dedication can bring success.
+His [GitHub](https://github.com/nonso01).
+
